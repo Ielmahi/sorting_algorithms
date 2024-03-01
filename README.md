@@ -351,3 +351,14 @@ Merge sort recursively breaks down the arrays to subarrays of size half. Similar
 <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.african100.com%2Fcareers%2Fafrican-leadership-university-alx-launchpad%2F&psig=AOvVaw1lAlxQO24fahvCRwrYzwAV&ust=1667936460891000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODVu9TpnPsCFQAAAAAdAAAAABAE" alt="alx logo">
 </p>
+
+
+## Author
+
+Ilias Elmahi
+
+- GitHub: [Ielmahi](https://github.com/Ielmahi)
+
+Yassine lahssini
+
+- GitHub: [yassinsl](https://github.com/yassinsl)
